@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Courses:
+
 2025: Statistics. Tufts University, USA.
 
 2024: Calculus II. Tufts University, USA.
@@ -31,7 +33,7 @@ author_profile: true
 
 2018:  Análisis Numérico I. FaMAF - UNC, Argentina.
 
-2018: Matemática I y II. FCA, UNC, Argentina.
+2018: Matemática I / Matemática II. FCA - UNC, Argentina.
 
 2018: Curso de Nivelación. FaMAF - UNC, Argentina.
 
@@ -48,3 +50,12 @@ author_profile: true
 2015: Análisis Matemático II. FaMAF - UNC, Argentina.
 
 2015: Álgebra / Álgebra II. FaMAF - UNC, Argentina.
+
+## Undergraduate Students : 
+
+2024-2025: Abi kothapalli. Department of Mathematics, Vanderbilt University, USA. (Co-mentor)
+
+2024: Kaiwen Shi. Department of Mathematics, Vanderbilt University, USA. (Co-mentor)
+
+2019-2020: David A. Hulett.  FaMAF - UNC, Argentina. 
+(David is currently a PhD candidate at University of Vienna)
