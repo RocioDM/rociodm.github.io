@@ -47,10 +47,13 @@ ICLR, 2024.
 ## 2020
 
 ## 2019
+_<a href="https://link.springer.com/article/10.1007/s00031-019-09518-7" target="_blank" rel="noopener noreferrer">Matrix Spherical Analysis on Nilmanifolds</a>_<br>
+**Rocío Díaz Martín**,  Linda V. Saal.<br>
+Transformation Groups, 24(3): 887-911, 2019. 
 
 ## 2018
 
 _<a href="https://link.springer.com/article/10.1007/s00605-017-1123-1" target="_blank" rel="noopener noreferrer">Spherical analysis on homogeneous vector bundles of the 3-dimensional Euclidean Motion Group</a>_<br>
-**Rocío Díaz Martín**,  Fernando Levstein.<br>
-Monatshefte f\"ur Mathematik, 185(4): 621--649, 2018. 
+**Rocío Díaz Martín**, Fernando Levstein.<br>
+Monatshefte für Mathematik, 185(4): 621--649, 2018. 
 
