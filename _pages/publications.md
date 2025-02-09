@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-### 2025
+<h3 class="yearheader">2025</h3>
 
 _<a href="https://openreview.net/forum?id=fgUFZAxywx" target="_blank" rel="noopener noreferrer">Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data</a>_<br>
 Xinran Liu, Yikun Bai, **Rocío Díaz Martín**, Kaiwen Shi, Ashkan Shahbazi, Bennett A. Landman, Catie Chang, Soheil Kolouri.<br>
@@ -24,7 +23,7 @@ _<a href="https://openreview.net/forum?id=P7O1Vt1BdU" target="_blank" rel="noope
 Xinran Liu, **Rocío Díaz Martín**, Yikun Bai, Ashkan Shahbazi, Matthew Thorpe, Akram Aldroubi, Soheil Kolouri.<br>
 ICLR, 2025.<br> 
 
-### 2024
+<h3 class="yearheader">2024</h3>
 
 _<a href="https://doi.org/10.1016/j.laa.2024.04.011" target="_blank" rel="noopener noreferrer">Dynamical sampling for the recovery of spatially constant source terms in \\ dynamical systems</a>_<br>
 Akram Aldroubi,  **Rocío Díaz Martín**, Ivan Medri.<br>
