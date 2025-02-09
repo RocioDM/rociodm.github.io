@@ -13,15 +13,15 @@ You can also find my articles on [my Google Scholar profile]({{ site.author.goog
 
 _<a href="https://openreview.net/forum?id=fgUFZAxywx" target="_blank" rel="noopener noreferrer">Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data</a>_<br>
 Xinran Liu, Yikun Bai, **Rocío Díaz Martín**, Kaiwen Shi, Ashkan Shahbazi, Bennett A. Landman, Catie Chang, Soheil Kolouri.<br>
-ICLR 2025.
+ICLR, 2025.
 
 _<a href="https://openreview.net/forum?id=sCew1tR6No" target="_blank" rel="noopener noreferrer">Partial Gromov-Wasserstein Metric</a>_<br>
 Yikun Bai, **Rocío Díaz Martín**, Abihith Kothapalli, Hengrong Du, Xinran Liu, Soheil Kolouri.<br>
-ICLR 2025.
+ICLR, 2025.
 
 _<a href="https://openreview.net/forum?id=BA1eG7vCNb" target="_blank" rel="noopener noreferrer">Linear Partial Gromov-Wasserstein Embedding</a>_<br>
 Yikun Bai, Abihith Kothapalli, Hengrong Du, **Rocío Díaz Martín**, Soheil Kolouri.<br>
-ICLR 2025.   
+ICLR, 2025.   
 
 _<a href="https://openreview.net/forum?id=P7O1Vt1BdU" target="_blank" rel="noopener noreferrer">Expected Sliced Transport Plans</a>_<br>
 Xinran Liu, **Rocío Díaz Martín**, Yikun Bai, Ashkan Shahbazi, Matthew Thorpe, Akram Aldroubi, Soheil Kolouri.<br>
@@ -53,7 +53,7 @@ Poincare Journal of Analysis and Applications, 10(2): 27-53, 2023.
 
 _<a href="https://openreview.net/forum?id=ftLm9QAqwc" target="_blank" rel="noopener noreferrer">Linear Optimal Partial Transport Embedding</a>_<br>
 Yikun Bai, Ivan Medri, **Rocío Díaz Martín**, Rana Muhammad Shahroz Khan, and Soheil Kolouri.<br>
-ICML 2023.
+ICML, 2023.
 
 _<a href="https://link.springer.com/article/10.1007/s43670-023-00059-5" target="_blank" rel="noopener noreferrer">Error analysis on the initial state reconstruction problem</a>_<br>
 **Rocío Díaz Martín**, Ivan Medri, and Juliana Osorio.<br>
