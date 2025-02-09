@@ -51,6 +51,10 @@ _<a href="DOI: 10.46753/pjaa.2023.v010i03.003" target="_blank" rel="noopener nor
 Jonathan Ashbrock, **Rocío Díaz Martín**, Brody Johnson,  Ivan Medri, and Alexander Powell.<br>
 Poincare Journal of Analysis and Applications, 10(2): 27-53, 2023.
 
+_<a href="https://openreview.net/forum?id=ftLm9QAqwc" target="_blank" rel="noopener noreferrer">Linear Optimal Partial Transport Embedding</a>_<br>
+Yikun Bai, Ivan Medri, **Rocío Díaz Martín**, Rana Muhammad Shahroz Khan, and Soheil Kolouri.<br>
+ICML 2023.
+
 _<a href="https://link.springer.com/article/10.1007/s43670-023-00059-5" target="_blank" rel="noopener noreferrer">Error analysis on the initial state reconstruction problem</a>_<br>
 **Rocío Díaz Martín**, Ivan Medri, and Juliana Osorio.<br>
 Sampling Theory, Signal Processing, and Data Analysis. 21: 18, 2023.
