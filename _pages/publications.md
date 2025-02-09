@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
+{% endif %}
+
 <h3 class="yearheader">2025</h3>
 
 _<a href="https://openreview.net/forum?id=fgUFZAxywx" target="_blank" rel="noopener noreferrer">Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data</a>_<br>
