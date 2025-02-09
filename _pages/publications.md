@@ -8,7 +8,7 @@ author_profile: true
 
 ## 2025
 
-_[Expected Sliced Transport Plans](https://openreview.net/forum?id=P7O1Vt1BdU)_<br>
+_<a href="https://openreview.net/forum?id=P7O1Vt1BdU" target="_blank" rel="noopener noreferrer">Expected Sliced Transport Plans</a>_<br>
 Xinran Liu, **Rocío Díaz Martín**, Yikun Bai, Ashkan Shahbazi, Matthew Thorpe, Akram Aldroubi, Soheil Kolouri.<br>
 ICLR, 2025. 
 
