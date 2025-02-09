@@ -28,7 +28,7 @@ ICLR, 2025.
 
 _<a href="https://doi.org/10.1016/j.laa.2024.04.011" target="_blank" rel="noopener noreferrer">Dynamical sampling for the recovery of spatially constant source terms in \\ dynamical systems</a>_<br>
 Akram Aldroubi,  **Rocío Díaz Martín**, Ivan Medri.<br>
-Journal of Linear Algebra and Applications, **696**:148-185, 2024.
+Journal of Linear Algebra and Applications, 696: 148-185, 2024.
 
 _<a href="https://openreview.net/forum?id=vLtVGtEz5h" target="_blank" rel="noopener noreferrer">Stereographic Spherical Sliced Wasserstein Distances</a>_<br>
 Huy Tran, Yikun Bai, Abihith Kothapalli, Ashkan Shahbazi, Xinran Liu, **Rocío Díaz Martín**,  Soheil Kolouri.<br>
@@ -50,4 +50,7 @@ ICLR, 2024.
 
 ## 2018
 
-## 2017
+_<a href="https://link.springer.com/article/10.1007/s00605-017-1123-1" target="_blank" rel="noopener noreferrer">Spherical analysis on homogeneous vector bundles of the 3-dimensional Euclidean Motion Group</a>_<br>
+**Rocío Díaz Martín**,  Fernando Levstein.<br>
+Monatshefte f\"ur Mathematik, 185(4): 621--649, 2018. 
+
