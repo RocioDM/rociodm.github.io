@@ -29,7 +29,7 @@ ICLR, 2025.
 
 <h3 class="yearheader">2024</h3>
 
-_<a href="https://doi.org/10.1016/j.laa.2024.04.011" target="_blank" rel="noopener noreferrer">Dynamical sampling for the recovery of spatially constant source terms in \\ dynamical systems</a>_<br>
+_<a href="https://doi.org/10.1016/j.laa.2024.04.011" target="_blank" rel="noopener noreferrer">Dynamical sampling for the recovery of spatially constant source terms in dynamical systems</a>_<br>
 Akram Aldroubi,  **Rocío Díaz Martín**, Ivan Medri.<br>
 Journal of Linear Algebra and Applications, 696: 148-185, 2024.
 
