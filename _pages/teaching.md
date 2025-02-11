@@ -53,7 +53,7 @@ author_profile: true
 
 ## Undergraduate Students : 
 
-2024-2025: Abi kothapalli. Department of Mathematics, Vanderbilt University, USA. (Co-mentor)
+2024-2025: Abihith Kothapalli. Department of Mathematics, Vanderbilt University, USA. (Co-mentor)
 
 2024: Kaiwen Shi. Department of Mathematics, Vanderbilt University, USA. (Co-mentor)
 
