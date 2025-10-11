@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Rocío Díaz Martín"
 title_separator          : "-"
 name                     : &name "Rocío Díaz Martín"
-description              : &description "I'm an Argentinian mathematician working as a Postdoctoral Researcher at Tufts University, MA, USA."
+description              : &description "I'm an Argentinian mathematician working as an Assistant Prof. in the Department of Mathematics at FSU, FL, USA."
 url                      : https://rociodm.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RocioDM/rociodm.github.io"
@@ -26,10 +26,10 @@ author:
   name             : "Rocío Díaz Martín"
   pronouns         : # example: "she/her"  
   bio              : "I'm an Argentinian mathematician working as a Postdoctoral Researcher at Tufts University, MA, USA."
-  location         : "Boston, MA"
-  employer         : "Tufts University"
-  uri              : "https://sites.google.com/view/rociodiazmartin" # URL
-  email            : "rocio.diaz_martin at Tufts.edu" 
+  location         : "Tallahassee, FL"
+  employer         : "Florida State University"
+ # uri              : "https://sites.google.com/view/rociodiazmartin" # URL
+  email            : "rdiazmartin at fsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
