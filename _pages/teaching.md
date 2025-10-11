@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Courses:
+2025: Calculus I. Florida State University, USA.
 
 2025: Statistics. Tufts University, USA.
 
