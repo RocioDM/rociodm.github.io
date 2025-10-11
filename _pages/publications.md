@@ -18,7 +18,7 @@ arXiv-preprint, 2025.
 _<a href="https://arxiv.org/abs/2507.09865" target="_blank" rel="noopener noreferrer">Characterization of frames for source recovery from dynamical samples</a>_<br>
 Akram Aldroubi, **Rocío Díaz Martín**, Le Gong, Javad Mashreghi, Ivan Medri.<br>
 arXiv-preprint, 2024.<br>
-Short version: _<a href="https://ieeexplore.ieee.org/document/11133541" target="_blank" rel="noopener noreferrer">Frames for Source Recovery in Dynamical Systems_ <br>
+Short version: _<a href="https://ieeexplore.ieee.org/document/11133541" target="_blank" rel="noopener noreferrer">Frames for Source Recovery in Dynamical Systems</a>_<br>
 International Conference on Sampling Theory and Applications (SampTA), 2025. 
 
 _<a href="https://www.arxiv.org/abs/2505.05676" target="_blank" rel="noopener noreferrer">An Efficient Transport-Based Dissimilarity Measure for Time Series Classification under Warping Distortions</a>_<br>
