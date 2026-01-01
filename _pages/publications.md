@@ -22,7 +22,7 @@ Short version: _<a href="https://ieeexplore.ieee.org/document/11133541" target="
 International Conference on Sampling Theory and Applications (SampTA), 2025. 
 
 _<a href="https://www.arxiv.org/abs/2505.05676" target="_blank" rel="noopener noreferrer">An Efficient Transport-Based Dissimilarity Measure for Time Series Classification under Warping Distortions</a>_<br>
-**Rocío Díaz Martín**, Linda Saal.<br>
+Akram Aldroubi, **Rocío Díaz Martín**, Ivan Medri, Kristofor E. Pas, Gustavo K. Rohde, Abu Hasnat Mohammad Rubaiyat.<br>
 arXiv-preprint, 2025.
 
 _<a href="https://arxiv.org/abs/2510.01043" target="_blank" rel="noopener noreferrer">A novel approach through spherical functions in the characterization of invariant functions</a>_<br>
