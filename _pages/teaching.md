@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Courses:
+2026: Calculus III. Florida State University, USA.
+
 2025: Calculus I. Florida State University, USA.
 
 2025: Statistics. Tufts University, USA.
@@ -53,6 +55,9 @@ author_profile: true
 2015: Álgebra / Álgebra II. FaMAF - UNC, Argentina.
 
 ## Undergraduate Students : 
+
+2025-2026: Monica Burgos Chaparro. Undergraduate Research Opportunity Program (UROP), FSU, USA.
+ 
 
 2024-2025: Abihith Kothapalli. Department of Mathematics, Vanderbilt University, USA. (Co-mentor)
 
