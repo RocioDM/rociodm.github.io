@@ -22,7 +22,7 @@ arXiv-preprint, 2025.
 
  _<a href="https://ieeexplore.ieee.org/document/11133541" target="_blank" rel="noopener noreferrer">Frames for Source Recovery in Dynamical Systems</a>_<br>
 International Conference on Sampling Theory and Applications (SampTA), 2025.<br>
-Short version of _<a href="https://arxiv.org/abs/2507.09865" target="_blank" rel="noopener noreferrer">Characterization of Frames for Source Recovery from Dynamical Samples</a>_<br>
+Short version of _<a href="https://arxiv.org/abs/2401.15450" target="_blank" rel="noopener noreferrer">Characterization of Frames for Source Recovery from Dynamical Samples</a>_<br>
 Akram Aldroubi, **Rocío Díaz Martín**, Le Gong, Javad Mashreghi, Ivan Medri.<br>
 arXiv-preprint, 2024.<br>
  
